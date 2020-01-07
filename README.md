@@ -3,6 +3,7 @@
 [![Build Status](https://github.com/nodejs/nodejs.org/workflows/Tests/badge.svg)](https://github.com/nodejs/nodejs.org/actions?workflow=Tests)
 [![Dependency Status](https://img.shields.io/david/nodejs/nodejs.org.svg)](https://david-dm.org/nodejs/nodejs.org)
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmichaelcoyote%2Fnodejs.org.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmichaelcoyote%2Fnodejs.org?ref=badge_shield)
 
 ## What is this repo?
 
@@ -60,3 +61,7 @@ The Website WG defers to these WGs on matters of content and routinely adds coll
 working groups as they add and improve content on the website. In other words, the Website WG is not
 an *editorial* Working Group except when no other Working Group has taken responsibility for a
 content area.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmichaelcoyote%2Fnodejs.org.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmichaelcoyote%2Fnodejs.org?ref=badge_large)
